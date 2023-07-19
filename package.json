@@ -1,0 +1,25 @@
+{
+  "name": "basic-algorithm-scripting",
+  "private": true,
+  "version": "1.0.0",
+  "description": "freecodecamp basic algorithm scripting course for javascript algorithms and data structures certificate",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "freecodecamp",
+    "basic algorithm scripting",
+    "bulma-css",
+    "javascript",
+    "vite",
+    "algorithms-and-data-structures"
+  ],
+  "author": "Josue",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.4.0"
+  }
+}
